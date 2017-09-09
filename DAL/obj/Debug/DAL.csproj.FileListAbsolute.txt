@@ -1,0 +1,12 @@
+E:\School\School\DAL\bin\Debug\DAL.dll.config
+E:\School\School\DAL\bin\Debug\DAL.dll
+E:\School\School\DAL\bin\Debug\DAL.pdb
+E:\School\School\DAL\bin\Debug\Common.dll
+E:\School\School\DAL\bin\Debug\EntityFramework.dll
+E:\School\School\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\School\School\DAL\bin\Debug\Common.pdb
+E:\School\School\DAL\bin\Debug\EntityFramework.xml
+E:\School\School\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\School\School\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\School\School\DAL\obj\Debug\DAL.dll
+E:\School\School\DAL\obj\Debug\DAL.pdb
